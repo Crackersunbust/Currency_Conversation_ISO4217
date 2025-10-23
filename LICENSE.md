@@ -3,7 +3,7 @@
 
 Educational Use License v1.0
 
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 Pratheesh Kumar K / Prk@007 Crackersunbust
 
 Permission is hereby granted to any person obtaining a copy of this software
 to use, copy, and modify the software for educational, research, and personal use only,
